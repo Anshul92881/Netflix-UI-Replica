@@ -33,15 +33,12 @@ The goal is to replicate the look and feel of Netflix’s homepage with responsi
 
 Optional: Use Live Server (VS Code Extension) for better development experience.
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
+
 HTML5: Markup for the page structure.
 CSS3: Styling for layout and design.
 
-📸 Preview
-
-
-
-📚 Future Enhancements
+📚 Future Enhancements:
 
 Add interactivity to the FAQ section using JavaScript.
 Implement user authentication for the "Sign In" button.
