@@ -1,0 +1,238 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    padding: 20px 40px;
+}
+.nav-logo img{
+    color: red;
+    width: 200px;
+}
+
+.main{
+    background-image: url(Assets/images/bgimage/bg.jpg);
+    width:100%;
+    height:95vh;
+    opacity: 0.8;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100vw;
+}
+.main1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+}
+.para1{
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 30vh;
+    font-size: 30px;
+    gap:20px;
+    z-index: 10px;
+}
+#p1{
+    font-weight: bolder;
+    font-size:50px;
+}
+#para2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:20px;
+    gap: 15px;
+}
+.separation{
+    height:7px;
+    background-color: rgb(62, 62, 62);
+}
+#opt{
+    padding: 12px 15px 10px 15px;
+    font-weight:bold;
+    border-radius: 5px;
+    color: black;
+    font-size: 20px;
+    border:1px solid white;
+}
+#btn2{
+    padding: 10px 15px 10px 15px;
+    font-weight:bold;
+    background-color: red;
+    color:white;
+    font-size: 20px;
+    border-radius: 5px;
+}
+#btn3{
+    font-weight: bold;
+    background-color: red;
+    color:white;
+    padding: 10px 24px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+#text{
+    padding: 10px 100px 10px 10px;
+    color:white;
+    font-size: 20px;
+    font-weight: 900;
+    border-radius: 5px;
+    background-color: rgba(23, 23, 23, 0.7);
+    border: 1px solid white;
+}
+.first {
+    display: flex;
+    justify-content: center;
+    max-width: 70vw;
+    margin: auto;
+    color: white;
+    align-items: center;
+}
+
+.secImg {
+    position: relative;
+}
+
+.secImg img {
+    width: 555px;
+    position: relative;
+    z-index: 10;
+}
+
+.secImg video {
+    position: absolute;
+    top: 51px;
+    right: 0;
+    width: 555px;
+}
+
+.para3{
+    display: flex;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.para4{
+    font-size:30px;
+}
+.second{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 65vw;
+    margin: auto;
+}
+.para5{
+    display: flex;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.para6{
+    font-size:30px;
+}
+.third{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 65vw;
+    margin: auto;
+}
+.para7{
+    display: flex;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.para8{
+    font-size:30px;
+}
+.forth{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 70vw;
+    margin: auto;
+}
+.para9{
+    display: flex;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.para10{
+    font-size:30px;
+}
+.faq{
+    padding: 34px;
+}
+.faq h2 {
+    text-align: center;
+    font-size: 48px;
+    color: white;
+    padding: 5px;
+}
+
+.faqbox {
+    font-size: 30px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #2d2d2d;
+    padding: 24px;
+    max-width: 60vw;
+    margin: 20px auto;
+    cursor: pointer;
+}
+.f1{
+    color: white;
+}
+.questions pre {
+    font-size: 28px;
+    padding: 15px;
+    height: 50px;    
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.foot-panel1{
+    color:white;
+    height:50px;
+    display: block;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: small;
+    flex-direction: column;
+}
+.foot-panel2{
+    color:white;
+    display: flex;
+    justify-content: space-evenly;
+}
+.links {
+    display: flex;
+    justify-content: space-evenly;
+    height: 300px;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+   
+ul a{
+    display:block;
+    margin-top:10px;
+    color: white;
+    font-size: 25px;
+    padding: 8px;
+}
+
