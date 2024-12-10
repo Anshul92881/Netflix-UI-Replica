@@ -23,6 +23,11 @@ The goal is to replicate the look and feel of Netflix’s homepage with responsi
 - **FAQ Section**: Common questions with dropdown functionality.
 - **Footer**: Useful links and contact information.
 
+## Preview
+ ![Image Alt]((https://github.com/Anshul92881/Netflix-UI-Replica/blob/main/Netflix1.png))
+  ![Image Alt](https://github.com/Anshul92881/Netflix-UI-Replica/blob/main/Netflix2.png)
+   ![Image Alt](https://github.com/Anshul92881/Netflix-UI-Replica/blob/main/Netflix3.png)
+
 ## 🚀 How to Run the Project Locally
 
 1. **Clone the Repository**
